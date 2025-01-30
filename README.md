@@ -1,13 +1,20 @@
-# Threat-model
 
+# Payment Process Threat Model
+This repository contains the threat model for the payment process in an e-commerce web application. The goal of this project is to identify potential security threats, evaluate their impact, and provide mitigation strategies to protect sensitive data and ensure secure transactions.
 
+# How to Use This Repository
+This repository contains the following files:
 
+Payment Threat Model.docx: The complete threat model document.
 
+PaymentProcess-ThreatModel.json: A visual representation of the payment process data flow at OWASP dragon.
 
+README.md: This file, providing an overview of the project.
 
-
-
-
+# Steps to Use:
+-Download json file 
+-Open OWASP dragon application ,select Open an existing threat model  
+-import the downloaded file
 
 # Certification: 
 
