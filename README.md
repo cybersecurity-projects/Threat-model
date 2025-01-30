@@ -7,13 +7,13 @@ This repository contains the following files:
 
 Payment Threat Model.docx: The complete threat model document.
 
-PaymentProcess-ThreatModel.json: A visual representation of the payment process data flow at OWASP dragon.
+PaymentProcess-ThreatModel.json: OWASP dragon file for visual representation of the payment process data flow .
 
 README.md: This file, providing an overview of the project.
 
 # Steps to Use:
 -Download json file 
--Open OWASP dragon application ,select Open an existing threat model  
+-Open OWASP dragon application then select "Open an existing threat model"option 
 -import the downloaded file
 
 # Certification: 
