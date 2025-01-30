@@ -12,8 +12,10 @@ PaymentProcess-ThreatModel.json: OWASP dragon file for visual representation of 
 README.md: This file, providing an overview of the project.
 
 # Steps to Use:
--Download json file 
+-Download json file  
+
 -Open OWASP dragon application then select "Open an existing threat model"option 
+
 -import the downloaded file
 
 # Certification: 
